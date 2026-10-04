@@ -1,0 +1,49 @@
+site RVA 0x1a70e: version=3 tree=0xc87540 names=0xc86ec0 data=0x5aaf0
+
+0x00c7d642  Resources/Icons/AppIcon.png	raw=27557	final=27557	flags=0x0000
+0x00c7a166  Resources/Icons/arrow-down-white.svg	raw=477	final=477	flags=0x0000
+0x00c841eb  Resources/Icons/arrow-down.svg	raw=477	final=477	flags=0x0000
+0x00c7a347  Resources/Icons/arrow-up-white.svg	raw=478	final=478	flags=0x0000
+0x00c7bce1  Resources/Icons/arrow-up.svg	raw=478	final=478	flags=0x0000
+0x00c7998b  Resources/Icons/caret-left.png	raw=458	final=458	flags=0x0000
+0x00c86654  Resources/Icons/caret-right.png	raw=240	final=240	flags=0x0000
+0x00c85ac5  Resources/Icons/check.svg	raw=695	final=695	flags=0x0000
+0x00c846e5  Resources/Icons/circle.png	raw=666	final=666	flags=0x0000
+0x00c7c028  Resources/Icons/cross-white.svg	raw=619	final=619	flags=0x0000
+0x00c86188  Resources/Icons/cross.svg	raw=619	final=619	flags=0x0000
+0x00c84983  Resources/Icons/error.png	raw=4414	final=4414	flags=0x0000
+0x00c7c3fb  Resources/Icons/hint.png	raw=4675	final=4675	flags=0x0000
+0x00c79c51  Resources/Icons/mic.png	raw=1297	final=1297	flags=0x0000
+0x00c843cc  Resources/Icons/progress-pattern.svg	raw=789	final=789	flags=0x0000
+0x00c79b59  Resources/Icons/radio.svg	raw=244	final=244	flags=0x0000
+0x00c8609e  Resources/Icons/sort-down.png	raw=230	final=230	flags=0x0000
+0x00c7a529  Resources/Icons/success.png	raw=6068	final=6068	flags=0x0000
+0x00c85d80  Resources/Icons/triangle-down-white.svg	raw=352	final=352	flags=0x0000
+0x00c7c297  Resources/Icons/triangle-down.svg	raw=352	final=352	flags=0x0000
+0x00c864ef  Resources/Icons/triangle-right-white.svg	raw=353	final=353	flags=0x0000
+0x00c7bec3  Resources/Icons/triangle-right.svg	raw=353	final=353	flags=0x0000
+0x00c85ee4  Resources/Icons/uncheck.svg	raw=438	final=438	flags=0x0000
+0x00c863f7  Resources/Icons/unradio.svg	raw=244	final=244	flags=0x0000
+0x0008ba24  Resources/Pic/OTA.gif	raw=27813	final=27813	flags=0x0000
+0x00081b4f  Resources/Pic/SmcMixer.png	raw=40657	final=40657	flags=0x0000
+0x0005aaf0  Resources/Pic/Smk25.png	raw=159835	final=159835	flags=0x0000
+0x000926cd  Resources/Pic/Smk25II.png	raw=31056	final=31056	flags=0x0000
+0x0009a021  Resources/Pic/Smk25Mini.png	raw=24486	final=24486	flags=0x0000
+0x00c86748  Resources/Qss/main.qss	raw=1903	final=9268	flags=0x0001
+0x002e7ebb  Resources/bin/BLACKBOX.fwsc	raw=700436	final=700436	flags=0x0000
+0x009b433b  Resources/bin/BLACKBOX_ampir.bin	raw=245760	final=245760	flags=0x0000
+0x009b2e23  Resources/bin/BLACKBOX_preset.bin	raw=1143	final=7370	flags=0x0001
+0x00aa235b  Resources/bin/MK20.fwsc	raw=1715892	final=1715892	flags=0x0000
+0x00677e07  Resources/bin/MK20_ampir.bin	raw=2859008	final=2859008	flags=0x0000
+0x00676edb  Resources/bin/MK20_preset.bin	raw=3880	final=61808	flags=0x0001
+0x0009ffcb  Resources/bin/MK300.fwsc	raw=1703636	final=1703636	flags=0x0000
+0x003ceed7  Resources/bin/MK300_ampir.bin	raw=2785280	final=2785280	flags=0x0000
+0x009b329e  Resources/bin/MK300_preset.bin	raw=4249	final=71688	flags=0x0001
+0x0023fea3  Resources/bin/Pocket AMP.fwsc	raw=688148	final=688148	flags=0x0000
+0x00392ed3  Resources/bin/Pocket AMP_ampir.bin	raw=245760	final=245760	flags=0x0000
+0x00c45213  Resources/bin/Pocket AMP_preset.bin	raw=1142	final=7370	flags=0x0001
+0x009f033f  Resources/bin/SP100.fwsc	raw=507924	final=507924	flags=0x0000
+0x00a6c357  Resources/bin/SP100_ampir.bin	raw=221184	final=221184	flags=0x0000
+0x00931e0b  Resources/bin/TANK-Gv2.fwsc	raw=528404	final=528404	flags=0x0000
+0x00c45987  Resources/bin/TANK-Gv2_ampir.bin	raw=212992	final=212992	flags=0x0000
+0x00c4568d  Resources/bin/TANK-Gv2_preset.bin	raw=758	final=758	flags=0x0000
